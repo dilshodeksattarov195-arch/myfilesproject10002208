@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentconnect",
+        "uuid": 20764032,
+        "checksum": "7sl4s"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
